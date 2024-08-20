@@ -6,20 +6,20 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "Você gosta de futebol?",
         alternativas: [
             {
-                texto: "Alternativa 1 da pergunta 1",
+                texto: "Sim, eu gosto",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Que legal, você gosta mesmo de futebol",
+                    "Que pena, parece que você não gosta de futebol"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 1",
+                texto: "Não,eu detesto",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Que pena, parece que você não gosta de futebol",
+                    "Que legal, você gosta mesmo de futebol"
                     ]
             }           
             
