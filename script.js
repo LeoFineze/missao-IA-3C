@@ -26,19 +26,19 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "você gosta de correr?",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 2",
+                texto:"Sim, eu gosto",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "que legal, você gosta de correr",
+                    "Não, detesto correr"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 2",
+                texto: "Não, detesto correr",
                 afirmacao: [
-                    "afirmacao 1",
+                    "que legal, você gosta de correr",
                     "afirmacao 2"
                     ]
             }
