@@ -33,7 +33,7 @@ export const perguntas = [
                 texto: "Não, detesto correr",
                 afirmacao: [
                     "que legal, você gosta de correr",
-                    "afirmacao 2"
+                    "Não, detesto correr"
                     ]
             }
         ]
