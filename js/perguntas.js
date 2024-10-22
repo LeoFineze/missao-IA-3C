@@ -1,18 +1,18 @@
 export const perguntas = [
     {
-        enunciado: "Você assiste gameplay de algum youtuber ?",
+        enunciado: "Qual foi o time que ganhou a copa de 2022?",
         alternativas: [
             {
-                texto: "Sim",
+                texto: "Argentina",
                 afirmacao: [
-                    "Ao assistir, ele está sendo um inútil"
+                    "Sim, você acertou."
                     ],
                 proxima: 1,
             },
             {
-                texto: "Não",
+                texto: "França",
                 afirmacao: [
-                    "Ao não assistir, ele está sendo produtivo em porcaria nenhuma"
+                    "Não, você errou."
                     ],
                 proxima: 1, 
             },
@@ -20,19 +20,19 @@ export const perguntas = [
     },
     
     {
-        enunciado: "Você gosta de jogar jogos de terror ?",
+        enunciado: "Qual time ganhou a copa de 2014?",
         alternativas: [
             {
-                texto:"Sim",
+                texto:"Argentina",
                 afirmacao: [
-                    " e que ao gostar de jogo de terror ele não tem medo. "
+                    "Não, você errou."
                     ],
                 proxima: 2, 
             },
             {
-                texto: "Não, tenho medo",
+                texto: "Alemanha",
                 afirmacao: [
-                    " e que ao gostar de jogo de terror ele tem medo. "
+                    "Sim, você acertou."
                     ],
                 proxima: 2, 
             },
@@ -40,19 +40,19 @@ export const perguntas = [
     },
     
     {
-        enunciado: "Você prefere que tipo de plataforma ?",
+        enunciado: "qual time tem mais copa do  mundo?",
         alternativas: [
             {
-                texto:"Consoles",
+                texto:"Brasil",
                 afirmacao: [
-                    "Quando ele escolhe console ele mostra o quão burro ele é,"
+                    "Sim, esse time possui 5 copas.,"
                     ],
                 proxima: 3, 
             },
             {
-                texto:"Computador",
+                texto:"Itália",
                 afirmacao: [
-                    "Quando ele escolhe PC ele mostra o quão sábio ele é, "
+                    "Não, esse time possui apenas 3 copas., "
                 ],
                 proxima: 3, 
             },
@@ -60,19 +60,19 @@ export const perguntas = [
     },
     
     {
-        enunciado: "Você acha justo o preço cobrados nos jogos ?",
+        enunciado: "Qual time foi campeão da copa de 2018?",
         alternativas: [
             {
-                texto: "Sim",
+                texto: "Croácia",
                 afirmacao: [
-                    "e que quando ele acha o preço dos jogos justo, ele mostra o quão burro financeiramente é"
+                    "Não, você errou., "
                     ],
                 proxima: 4, 
             },
             {
-                texto: "Não, eu sou inteligente",
+                texto: "França",
                 afirmacao: [
-                    "e que quando ele acha o preço dos jogos justo, ele mostra o quão burro financeiramente é"
+                    "Sim, você acertou.,"
                 ],
                 proxima: 4, 
             },     
@@ -80,19 +80,19 @@ export const perguntas = [
     },
     
     {
-        enunciado: "Você é a favor da pirataria ?",
+        enunciado: "Qual é o maior artilheiro da história da Copa do Mundo ?",
         alternativas: [
             {
-                texto: "Sim",
+                texto: "Miroslav Klose",
                 afirmacao: [
-                    ". O cara lembrou que mora no Brasil "
+                    ". Correto "
                     ],
                 proxima: 5, 
             },
             {
-                texto: "Não, eu sou um bosta",
+                texto: "Ronaldo Fenômeno ",
                 afirmacao: [
-                    ". O cara esqueceu que mora no Brasil "
+                    ". Incorreto "
                     ],
                 proxima: 5, 
             },
@@ -100,18 +100,18 @@ export const perguntas = [
     },
     
     {
-        enunciado: "Você gostaria de trabalhar com a programação de jogos ?",
+        enunciado: "Qual foi o melhor goleiro do mundo da Copa de 2022 ?",
         alternativas: [
             {
-                texto: "Sim",
+                texto: "Emiliano Martínez",
                 afirmacao: [
-                    " mal sabia ele(a) que irá passar fome"
+                    " Correto "
                     ]
             },
             {
-                texto: "Não",
+                texto: "Alisson Becker",
                 afirmacao: [
-                    " mal sabia ele que escapou da fome, amém !"
+                    " Incorreto "
                     ] 
             },   
         ]
